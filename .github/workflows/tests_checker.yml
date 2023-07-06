@@ -16,5 +16,5 @@ jobs:
         run: g++ -o app app.cpp
         
       - name: Checker
-        run: bash tests/test.sh
+        run: bash tests/tests.sh
       
